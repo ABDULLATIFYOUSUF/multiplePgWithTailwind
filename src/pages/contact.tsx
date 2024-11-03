@@ -1,15 +1,15 @@
 import Navbar from "@/components/Navbar";
 import React from "react";
 
-function Home() {
+const contact = () => {
   return (
-    <div className="w-full h-screen bg-red-500">
+    <div className="w-full h-screen bg-slate-400">
       <Navbar />
       <h1 className="text-white text-center mt-80 text-3xl underline">
-        Home Page
+        Contact Page
       </h1>
     </div>
   );
-}
+};
 
-export default Home;
+export default contact;

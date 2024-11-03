@@ -19,3 +19,9 @@ body {
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+.galleryDiv {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-OUkQk9bTKIDRkKfSnH4YWy20UqAX6QyaxA&s");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
